@@ -20,15 +20,15 @@ export default function RootLayout({
         <Link href="/">
           <h1 className="text-2xl text-white font-bold mt-4">Brandon's Blog</h1>
         </Link>
-        <p className="text-slate-300">🤟 Welcome to Deveveloper Blog 💻</p>
+        <p className="text-slate-300">🤟 Welcome to my Developer Blog 💻</p>
       </div>
     </header>
   );
 
   const footer = (
     <footer>
-      <div className="border-t border-slate-400 mt-12 py-6 text-center text-slate-400">
-        <h3>Designed by Brandon.tsx</h3>
+      <div className="border-t border-slate-600 mt-12 py-6 text-center text-slate-400">
+        <h3>Designed by Brandon Mushori (Brandon.tsx)</h3>
       </div>
     </footer>
   );
