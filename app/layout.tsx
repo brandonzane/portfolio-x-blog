@@ -9,11 +9,11 @@ export default function RootLayout({
 }) {
   const header = (
     <header>
-      <div className="text-center bg-slate-800 p-8 my-6 rounded-md">
+      <div className="text-center bg-gradient-to-r from-purple-600 to-pink-600 p-8 my-6 rounded-md">
         <Image
-          src="/logo.png"
-          width={40}
-          height={40}
+          src="/mt-fuji-sakura.png"
+          width={140}
+          height={140}
           className="mx-auto"
           alt={"logo"}
         />
